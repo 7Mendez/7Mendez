@@ -7,7 +7,6 @@ Software Engineer
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [henry.com.mx](http://henry.com.mx)
 * ✉️  You can contact me at [henrymendex@outlook.com](mailto:henrymendex@outlook.com)
-* 🧠  I'm learning More Rails, Javascript and Flutter.
 
 ### Skills
 
