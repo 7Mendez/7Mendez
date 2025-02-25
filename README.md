@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [henry.com.mx](http://henry.com.mx)
-* ✉️  You can contact me at [henrymendex@outlook.com](mailto:henrymendex@outlook.com)
+* ✉️  You can contact me at [henrymendexdev@gmail.com](mailto:henrymendexdev@gmail.com)
 
 ### Skills
 
